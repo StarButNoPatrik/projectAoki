@@ -1,0 +1,4 @@
+It will be a 2D JRPG mainly focusing on story and combat, similar to games like Omori and Earthbound. Omori was one of the biggest inspirations for us to make this game, we wanted to make something similar to it with our own style and ideas. Some concepts are taken from other famous RPGs like Shin Megami Tensei and the Persona series, also the old Final Fantasy games.
+As of now, we want to focus on refining the story and fine tuning the combat and the world so that it is gripping to the player even though it will be a short experience. The key to a good RPG is the story and the characters, we have also included the character design of few characters which we wish to incorporate.
+This project will mainly be done on Godot engine, the pixelated art will be done on Blender by making a model first and then pixelating it, or by subdividing the cube and making a pixel art.
+
