@@ -1,4 +1,4 @@
-# projectAoki
+# Project Aoki (Kaharu)
 
 ![21](https://user-images.githubusercontent.com/97784530/149822336-cb326291-9ce0-4694-aa63-22b7d4806de3.png)
 
